@@ -1,4 +1,4 @@
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 
 namespace GitPractice.Controllers
 {
@@ -12,7 +12,7 @@ namespace GitPractice.Controllers
         };
 
         //comment
-        //comment
+        //صلى الله عليه وسلم
 
         private readonly ILogger<WeatherForecastController> _logger;
 
