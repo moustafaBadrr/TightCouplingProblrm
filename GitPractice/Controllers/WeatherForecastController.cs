@@ -1,4 +1,4 @@
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 
 namespace GitPractice.Controllers
 {
@@ -8,8 +8,11 @@ namespace GitPractice.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Freezing", "Bracing", "Chilly", "Neww", "Cool", "Mild", "Warm", "Balmy", "Hot", "Modified by Khaled"
+            "Freezing", "Bracing", "Chilly", "Neww", "Cool", "Mild", "Warm", "Hot", "Modified by Khaled", "saber"
         };
+
+        //comment
+        //صلى الله عليه وسلم
 
         private readonly ILogger<WeatherForecastController> _logger;
 
