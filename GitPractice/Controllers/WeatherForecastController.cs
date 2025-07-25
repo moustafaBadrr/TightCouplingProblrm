@@ -1,4 +1,4 @@
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 
 namespace GitPractice.Controllers
 {
@@ -10,6 +10,9 @@ namespace GitPractice.Controllers
         {
             "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering","saber"
         };
+
+        //comment
+        //صلى الله عليه وسلم
 
         private readonly ILogger<WeatherForecastController> _logger;
 
