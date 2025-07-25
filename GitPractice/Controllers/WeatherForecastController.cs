@@ -8,7 +8,7 @@ namespace GitPractice.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering","saber"
+            "Freezing", "Bracing", "Chilly", "Neww", "Cool", "Mild", "Warm", "Hot", "Modified by Khaled", "saber"
         };
 
         //comment
