@@ -18,7 +18,7 @@ namespace GitPractice.Controllers
 
         public WeatherForecastController(ILogger<WeatherForecastController> logger)
         {
-            _logger = logger;
+            _logger = logger; // Comment Data and time 28/7/2025 (12:14 , AM) Modified by Khaled
         }
 
         [HttpGet]
